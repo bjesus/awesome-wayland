@@ -2,7 +2,8 @@
   <img src="./logo.png" width="250" title="Wayland Logo">
 </p>
 
-# Awesome Wayland
+# Awesome Wayland [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/3b013db3-5917-40dc-8567-30454969488d/deploy-status)](https://app.netlify.com/sites/awesome-wayland/deploys)
+
 Curated list of Wayland resources
 
 - General Resources
