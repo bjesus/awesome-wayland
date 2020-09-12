@@ -1,0 +1,14 @@
+{
+  "name": "awesome-wayland",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fiddly": "^0.9.1"
+  }
+}
