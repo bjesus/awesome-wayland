@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="250" title="Wayland Logo">
+  <img src="./logo.png" width="250" title="Wayland Logo">
 </p>
 
 # Awesome Wayland
