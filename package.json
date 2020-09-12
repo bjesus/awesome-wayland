@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "fiddly": "^0.9.1"
+  },
+  "fiddly": {
+    "name": "Awesome Wayland",
+    "logo": "logo.png",
+    "repo": "https://github.com/oofdog/awesome-wayland"
   }
 }
