@@ -58,13 +58,11 @@ Curated list of Wayland resources
   - https://github.com/swaywm/swaybg
   - https://github.com/nwg-piotr/azote
  - Rust
-   Tools implemented in Rust
    - Protocol
      - https://github.com/Smithay/wayland-rs
    - Compositors/WM
      - https://github.com/Smithay/smithay
-- Applications
-  Applications with Wayland support (i.e. that don't need XWayland to run)
+- Applications with Wayland support (i.e. that don't need XWayland to run)
   - Terminal Emulators
     - https://github.com/91861/wayst
     - https://github.com/alacritty/alacritty
