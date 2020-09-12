@@ -13,7 +13,7 @@
   },
   "fiddly": {
     "name": "Awesome Wayland",
-    "logo": "logo.png",
+    "noHeader": true,
     "repo": "https://github.com/oofdog/awesome-wayland"
   }
 }
