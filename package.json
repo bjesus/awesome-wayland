@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "fiddly && cp logo.png public/"
+    "build": "fiddly && cp logo.png public/ && cp google3406162530e48456.html public/"
   },
   "keywords": [],
   "author": "",
