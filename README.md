@@ -8,6 +8,8 @@ Curated list of Wayland resources
 
 - General Resources
   - https://wayland-book.com
+  - https://arewewaylandyet.com/
+  - [Community Discord Server](https://discord.com/invite/3yGgutg)
 - Bars
   - https://github.com/francma/wob
   - https://github.com/Alexays/Waybar
