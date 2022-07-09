@@ -1,19 +1,15 @@
 {
   "name": "awesome-wayland",
-  "version": "1.0.0",
-  "description": "",
   "scripts": {
     "build": "fiddly && cp logo.png public/ && cp google3406162530e48456.html public/"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "fiddly": "^0.9.1"
+    "fiddly": "https://github.com/oofdog/fiddly#b2f7f85"
   },
   "fiddly": {
     "name": "Awesome Wayland",
     "noHeader": true,
-    "repo": "https://github.com/oofdog/awesome-wayland"
+    "repo": "https://github.com/oofdog/awesome-wayland",
+    "ga4Id": "G-9MBTN56KR8"
   }
 }
