@@ -32,6 +32,8 @@ Curated list of Wayland resources
   - https://github.com/udevbe/greenfield
   - https://github.com/st3r4g/swvkc
   - https://github.com/buffet/kiwmi
+- Clipboard Managers
+  - https://github.com/bjesus/clapboard
 - Desktop Environments
   - https://en.opensuse.org/Portal:OpenSUSEway
 - Displays
